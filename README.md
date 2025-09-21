@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-!Profile](./profile.gif)
+![Profile](./profile.gif)
+
 
