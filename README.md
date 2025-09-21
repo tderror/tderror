@@ -1,6 +1,6 @@
 
 
-![Profile](./profile.gif)
+
 
 
 
