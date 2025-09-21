@@ -3,5 +3,5 @@
 
 
 
-![Profile](./profile.gif)
+![Profile](./profile_github.gif)
 
