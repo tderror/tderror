@@ -19,9 +19,9 @@ I’m passionate about Information Assurance (cybersecurity) and currently study
 ## 🔥 Interests & contributions
 I combine theory and practice, controlled offensive work, and defensive guidance:
 
-- **Web Penetration Testing — find and exploit web vulnerabilities (auth logic, business logic, SSRF, RCE, SQLi, XSS), write clear writeups with PoCs, reproducible scripts, and mitigation guidance; 
-- **Malware Analysis & Threat Awareness — static/dynamic analysis of small samples, extract IoCs, produce detection checklists and reports;
-- **Anti-Scam (Anti-Phishing) — create phishing/vishing/social-engineering advisories and easy-to-follow guidance for ordinary users.
+- Web Penetration Testing — find and exploit web vulnerabilities (auth logic, business logic, SSRF, RCE, SQLi, XSS), write clear writeups with PoCs, reproducible scripts, and mitigation guidance; 
+- Malware Analysis & Threat Awareness — static/dynamic analysis of small samples, extract IoCs, produce detection checklists and reports;
+- Anti-Scam (Anti-Phishing) — create phishing/vishing/social-engineering advisories and easy-to-follow guidance for ordinary users.
 
 **Goal:** contribute to a safer online environment by publishing practical analyses, clear PoCs & mitigations, and spreading defensive knowledge.
 
